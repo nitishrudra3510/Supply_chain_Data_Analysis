@@ -47,7 +47,7 @@ If you have any questions or would like to contribute further insights, please f
 
 # References to the Solved Analysis Case Study Using Excel (Check out my Full Analytic Report Here)
 
-<a href="https://medium.com/@aareadegboyega/supply-chain-analysis-data-analysis-case-study-using-excel-fee3568e8f07" target="_blank">Supply Chain Analysis with Excel by Aare Adegboyega</a> 
+
 
 
 
